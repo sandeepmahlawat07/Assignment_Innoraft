@@ -227,7 +227,7 @@ header .hamburger {
 .menu__items--wrapper.active  .menu__items {
     display: grid;
     justify-content: center;
-    gap: 35px;
+    gap: 0px;
     margin-top: 70px;
 }
 
